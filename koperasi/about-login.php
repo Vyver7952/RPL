@@ -10,6 +10,7 @@
 	<table cellpadding="0" cellspacing="5" bgcolor="#B0C4DE">
 		<tr height="36" bgcolor="#F8F8FF">
 			<th colspan="5">Your Login Detail</th>
+			<th></th>
 		</tr>
 		<tr>
 			<td>
